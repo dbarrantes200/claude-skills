@@ -8,6 +8,7 @@ of third-party skills I use (installed from their own repos, not copied here).
 | Skill | What it does |
 |---|---|
 | `danny-site-standards` | My reusable design, content, and delivery standards for bilingual (ES/EN) landing pages and micro-SaaS tool sites. Apply automatically on every site build/update. |
+| `presentaciones-visuales` | Creates self-contained bilingual (ES/EN) HTML slide presentations from an idea, outline, document, transcript, or PowerPoint — for meetings, classes, pitches, proposals, and videos. |
 
 ## Curated for my work (Deloitte)
 
