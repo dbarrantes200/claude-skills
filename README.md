@@ -9,6 +9,7 @@ of third-party skills I use (installed from their own repos, not copied here).
 |---|---|
 | `danny-site-standards` | My reusable design, content, and delivery standards for bilingual (ES/EN) landing pages and micro-SaaS tool sites. Apply automatically on every site build/update. |
 | `presentaciones-visuales` | Creates self-contained bilingual (ES/EN) HTML slide presentations from an idea, outline, document, transcript, or PowerPoint — for meetings, classes, pitches, proposals, and videos. |
+| `youtube-upload-checklist` | Prepare, review, and publish YouTube videos and Shorts on my channels with one repeatable checklist for packaging, retention, Studio settings, captions, audience rules, and post publish analytics. |
 
 ## Curated for my work (Deloitte)
 
